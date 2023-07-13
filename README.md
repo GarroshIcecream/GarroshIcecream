@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GarroshIcecream</h1>
 <h3 align="center">Young ML/AI Engineer wannabe with love for concise code and beer.</h3>
 
-- 🔭 I’m currently working on **Hidden Markov Models**
+- 🔭 I’m currently working on **Hidden Markov Models and NLP**
 
 - 🌱 I’m currently learning **Rust, PyTorch and Kafka**
 
