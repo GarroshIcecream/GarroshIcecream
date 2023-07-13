@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hidden Markov Models**
 
-- 🌱 I’m currently learning **Rust, Tensorflow and Kafka**
+- 🌱 I’m currently learning **Rust, PyTorch and Kafka**
 
 - 💬 Ask me about **Machine Learning and Math**
 
