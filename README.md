@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning and Reinforcement Learning**
 
-- 📫 How to reach me **garroshicecream@gmail.com**
+- 📫 How to reach me **garroshicecream69@gmail.com**
 
 - ⚡ Fun fact **I am a big fan of Charles Bukowski**
 
