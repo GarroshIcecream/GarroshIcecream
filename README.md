@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm GarroshIcecream</h1>
-<h3 align="center">Young ML/AI Engineer wannabe with love for literature and beer.</h3>
+# GarroshIcecream
 
-- 🔭 I’m currently working on **TUI apps in Go**
+I turn beer into questionable PyTorch code, write Go TUIs so my food doesn't commit seppuku in the pan, and TypeScript/React is currently raping my soul.
 
-- 🌱 I’m currently learning **Rust & Go**
+### What I'm currently shipping
 
-- 💬 Ask me about **Machine Learning and Reinforcement Learning**
+- **[ChadHMM](https://github.com/GarroshIcecream/ChadHMM)** — Making Hidden (Semi-)Markov Models actually based. PyTorch edition. Normal HMMs are for virgins.
+- **[yummy](https://github.com/GarroshIcecream/yummy)** — Terminal recipe manager for developers who can code better than they can cook. Zero kitchen fires guaranteed (probably).
 
-- 📫 How to reach me **garroshicecream69@gmail.com**
+Currently mainlining Go, Rust, and whatever keeps the liver damage entertaining.
 
-- ⚡ Fun fact **I am a big fan of Charles Bukowski**
+### Tech stack (in order of how much they enable my degeneracy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.snowflake.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="snowflake" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+- **PyTorch** — for the AI crimes
+- **Go** — for fast, clean TUIs
+- **Beer** — the real runtime
+- Literature that makes me hate humanity a little more
+- **TypeScript** — currently destroying my will to live
+
+---
+
+If you want to collab, slide into my DMs. Low expectations recommended.
