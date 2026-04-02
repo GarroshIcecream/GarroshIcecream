@@ -11,12 +11,13 @@ Currently mainlining Go, Rust, and whatever keeps the liver damage entertaining.
 
 ### Tech stack (in order of how much they enable my degeneracy)
 
-- **PyTorch** - for the AI crimes
+- **Python** - my ride-or-die whore
 - **Go** - for fast, clean TUIs
+- **JS/TS** - pure fucking pain
+- **PyTorch** - for the AI crimes
 - **Beer** - the real runtime
 - Literature that makes me hate humanity a little more
-- **TypeScript** - currently destroying my will to live
 
 ---
 
-If you want to collab, slide into my DMs. Low expectations recommended.
+If you want to collab, slide into my DMs. Low expectations recommended though...
