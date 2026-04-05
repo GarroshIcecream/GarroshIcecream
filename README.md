@@ -1,10 +1,10 @@
 # GarroshIcecream
 
-I turn beer into questionable PyTorch code, write Go TUIs so my food doesn't commit seppuku in the pan, and TypeScript/React is currently raping my soul.
+I turn beer into questionable PyTorch code, write Go TUIs so my food doesn't commit seppuku in the pan.
 
 ### What I'm currently shipping
 
-- **[ChadHMM](https://github.com/GarroshIcecream/ChadHMM)** - Making Hidden (Semi-)Markov Models actually based. PyTorch edition. Normal HMMs are for virgins.
+- **[ChadHMM](https://github.com/GarroshIcecream/ChadHMM)** - Making Hidden (Semi-)Markov Models actually based. PyTorch edition.
 - **[yummy](https://github.com/GarroshIcecream/yummy)** - Terminal recipe manager for developers who can code better than they can cook. Zero kitchen fires guaranteed (probably).
 
 Currently mainlining Go, Rust, and whatever keeps the liver damage entertaining.
